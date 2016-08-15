@@ -1,2 +1,3 @@
 # hello-world
-Learning the git
+learning to git
+learned how to branch
